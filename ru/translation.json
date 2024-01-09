@@ -1,13 +1,15 @@
 {
-      "0": "0",
+  "ru": {
+    "translation": {
+      "🌐 LV": "🌐 RU",
       "Skip to Content": "Skip to Content",
       "Thermo&amp;Comfort": "Thermo&amp;Comfort",
       "Produkcija": "Производство",
       "BUJ": "Часто задаваемые вопросы",
       "Uzzini Vairāk": "Узнать больше",
       "Sazinies ar mums": "Связаться с нами",
-      "Open Menu": "Открыть меню",
-      "Close Menu": "Закрыть меню",
+      "Open Menu": "Open Menu",
+      "Close Menu": "Close Menu",
       "Par mums": "Par mums",
       "Esam uzņēmums, kas nodarbojas ar celtniecības materiālu un kurināmā tirdzniecību.": "Esam uzņēmums, kas nodarbojas ar celtniecības materiālu un kurināmā tirdzniecību.",
       "Kāpēc izvēlēties un iegādāties kūdras briketes pie mums?": "Kāpēc izvēlēties un iegādāties kūdras briketes pie mums?",
@@ -40,4 +42,6 @@
       "­": "­",
       "Kas mēs esam? — Thermo&Comfort Kūdras Briketes": "Kas mēs esam? — Thermo&Comfort Kūdras Briketes",
       "Iegādājieties kūdras briketes pie mums un aizmirstiet par lielām izmaksām \napkures sezonā. Kūdras briketes ir ekoloģiski tīrs cietā kurināmā veids ar \naugstu siltumatdevi. Ienāciet mūsu mājaslapā un noskaidrojiet par kūdras \nbriketēm vairāk!": "Iegādājieties kūdras briketes pie mums un aizmirstiet par lielām izmaksām \napkures sezonā. Kūdras briketes ir ekoloģiski tīrs cietā kurināmā veids ar \naugstu siltumatdevi. Ienāciet mūsu mājaslapā un noskaidrojiet par kūdras \nbriketēm vairāk!"
+    }
+  }
 }
